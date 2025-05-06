@@ -2,6 +2,8 @@
 
 Python script to pull lots of docker images in parallel
 
+https://github.com/user-attachments/assets/98832e30-0a05-4789-b055-a825cbba1ba5
+
 ## Dependencies
 
 Python: `requests`, `urllib3`
